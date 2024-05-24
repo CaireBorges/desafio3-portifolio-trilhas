@@ -1,6 +1,7 @@
 O PROJETO POSTADO ACIMA É A MINHA RESPOSTA AO SEGUINTE DESAFIO:
 ↓↓ ↓↓ ↓↓ ↓↓ ↓↓
 Segundo Desafio - Programação
+
 giphy gif_cid=7941fdc6agaumjve6exfyn9yw4mp3w5kugxc2vuxb12xv1fi ep=v1_gifs_search rid=giphy
 
 Objetivo
