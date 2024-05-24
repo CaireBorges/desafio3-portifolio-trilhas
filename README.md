@@ -15,6 +15,5 @@ Neste projeto, vamos desenvolver uma página com o seu currículo. Nela você po
 Você colocará suas habilidades obtidas na trilha **Include** em prática e terá uma página completa para compartilhar no seu GitHub e LinkedIn! 🤓
 
 Link do FIgma abaixo: <br>
-Neste projeto, vamos desenvolver uma página com o seu currículo. Nela você poderá se apresentar, informar quais são os seus interesses, suas competências, formações e contar um pouco da sua jornada!
+https://www.figma.com/design/MpgSvEiRKXMVMnYmYNkXPJ/Projeto-Portfólio---v2024?node-id=0-1&t=KjH1SKzGDfIaLzGk-0
 
-Você colocará suas habilidades obtidas na trilha **Include** em prática e terá uma página completa para compartilhar no seu GitHub e LinkedIn! 🤓
